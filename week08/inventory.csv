@@ -1,0 +1,9 @@
+ProductID,Product,Supplier,Price,Quantity
+P001,Laptop,TechCorp,999.99,45
+P002,Mouse,AccessoriesPlus,29.99,200
+P003,Keyboard,AccessoriesPlus,79.99,150
+P004,Monitor,TechCorp,349.99,30
+P005,Webcam,TechCorp,89.99,75
+P006,Headset,AudioMax,149.99,60
+P007,USB Hub,AccessoriesPlus,49.99,120
+P008,Mousepad,AccessoriesPlus,19.99,300
