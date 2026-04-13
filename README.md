@@ -63,6 +63,22 @@ df = pd.read_csv(url)
 | `week13/marketing_response.csv` | Marketing campaign response data |
 | `week13/loan_defaults.csv` | Loan default prediction data |
 
+### Final Project
+See [`final-project/README.md`](final-project/README.md) for the student guide, team-formation rules, and the 50-point rubric. Each of the 10 project options has its own subfolder containing a narrative (`README.md`) and the dataset students need.
+
+| Folder | Scenario | Dataset |
+|--------|----------|---------|
+| `final-project/Project-01-TeleMax-Churn/` | Telecom customer churn | `telemax_customers.csv` |
+| `final-project/Project-02-FirstState-Loan-Default/` | Community-bank loan default | `firststate_loans.csv` |
+| `final-project/Project-03-NovaMail-Spam-Filter/` | Enterprise email spam filter | `novamail_messages.csv` |
+| `final-project/Project-04-HealthPath-Diabetes-Screening/` | Primary-care diabetes screening | `healthpath_patients.csv` |
+| `final-project/Project-05-SecureCard-Fraud/` | Credit-card fraud detection | `securecard_transactions.csv` |
+| `final-project/Project-06-GreenLeaf-Direct-Mail/` | Grocery-chain direct-mail targeting | `greenleaf_customers.csv` |
+| `final-project/Project-07-AxisCorp-Attrition/` | Consulting-firm attrition | `axiscorp_employees.csv` |
+| `final-project/Project-08-PrecisionParts-QC/` | Aerospace QC flagging | `precisionparts_runs.csv` |
+| `final-project/Project-09-StreamPlus-Upgrade/` | Streaming-service upgrade targeting | `streamplus_subscribers.csv` |
+| `final-project/Project-10-CampusConnect-At-Risk/` | University at-risk student identification | `campusconnect_students.csv` |
+
 ## Course Information
 
 - **Course**: ISM4641 Python for Business Analytics
